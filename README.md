@@ -1,6 +1,6 @@
 # Тестовое задание Kokoc Group 
 ## Описание 
-Сборка курса валют стек со страницы https://www.cbr-xml-daily.ru/daily_json.js
+Сборка курса валют со страницы https://www.cbr-xml-daily.ru/daily_json.js
 
 ## Стек технология:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
