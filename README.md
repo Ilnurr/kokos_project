@@ -1,4 +1,3 @@
-# Тестовое задание Kokoc Group 
 ## Описание 
 Сборка курса валют со страницы https://www.cbr-xml-daily.ru/daily_json.js
 
